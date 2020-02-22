@@ -1,0 +1,143 @@
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\roslyn\csc.exe
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\roslyn\vbc.exe
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\GroceryWarehouse.dll.config
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\GroceryWarehouse.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\GroceryWarehouse.pdb
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Antlr3.Runtime.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\EntityFramework.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\EntityFramework.SqlServer.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Newtonsoft.Json.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Owin.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\System.Web.Helpers.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\System.Web.Mvc.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\System.Web.Optimization.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\System.Web.Razor.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\System.Web.WebPages.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\WebGrease.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\System.Web.Helpers.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\System.Web.Mvc.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\System.Web.Optimization.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\System.Web.Razor.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\System.Web.WebPages.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Antlr3.Runtime.pdb
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Newtonsoft.Json.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\EntityFramework.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\EntityFramework.SqlServer.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\obj\Debug\GroceryWarehouse.csprojResolveAssemblyReference.cache
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\obj\Debug\GroceryWarehouse.dll
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\obj\Debug\GroceryWarehouse.pdb
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\obj\Debug\GroceryWarehouse.Migrations.init.resources
+C:\Users\Lindokuhle Jele\Documents\Visual Studio 2015\Projects\GroceryWarehouse\GroceryWarehouse\obj\Debug\GroceryWarehouse.csproj.GenerateResource.Cache
+E:\GroceryWarehouse\GroceryWarehouse\bin\roslyn\csc.exe
+E:\GroceryWarehouse\GroceryWarehouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GroceryWarehouse\GroceryWarehouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GroceryWarehouse\GroceryWarehouse\bin\roslyn\System.Collections.Immutable.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\roslyn\System.Reflection.Metadata.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\roslyn\vbc.exe
+E:\GroceryWarehouse\GroceryWarehouse\bin\roslyn\VBCSCompiler.exe
+E:\GroceryWarehouse\GroceryWarehouse\bin\roslyn\VBCSCompiler.exe.config
+E:\GroceryWarehouse\GroceryWarehouse\bin\GroceryWarehouse.dll.config
+E:\GroceryWarehouse\GroceryWarehouse\bin\GroceryWarehouse.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\GroceryWarehouse.pdb
+E:\GroceryWarehouse\GroceryWarehouse\bin\Antlr3.Runtime.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\EntityFramework.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\EntityFramework.SqlServer.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.AspNet.Identity.Core.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.Cookies.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.Facebook.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.Google.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.OAuth.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.Twitter.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Web.Infrastructure.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\Newtonsoft.Json.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\Owin.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\System.Web.Helpers.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\System.Web.Mvc.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\System.Web.Optimization.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\System.Web.Razor.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\System.Web.WebPages.Deployment.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\System.Web.WebPages.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\System.Web.WebPages.Razor.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\WebGrease.dll
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\System.Web.Helpers.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\System.Web.Mvc.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\System.Web.Optimization.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\System.Web.Razor.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\System.Web.WebPages.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\System.Web.WebPages.Deployment.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\System.Web.WebPages.Razor.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\Antlr3.Runtime.pdb
+E:\GroceryWarehouse\GroceryWarehouse\bin\Newtonsoft.Json.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\EntityFramework.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\EntityFramework.SqlServer.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.AspNet.Identity.Core.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.Facebook.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.OAuth.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.Google.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.Twitter.xml
+E:\GroceryWarehouse\GroceryWarehouse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\GroceryWarehouse\GroceryWarehouse\obj\Debug\GroceryWarehouse.csprojAssemblyReference.cache
+E:\GroceryWarehouse\GroceryWarehouse\obj\Debug\GroceryWarehouse.csproj.CopyComplete
+E:\GroceryWarehouse\GroceryWarehouse\obj\Debug\GroceryWarehouse.dll
+E:\GroceryWarehouse\GroceryWarehouse\obj\Debug\GroceryWarehouse.pdb
+E:\GroceryWarehouse\GroceryWarehouse\obj\Debug\GroceryWarehouse.Migrations.init.resources
+E:\GroceryWarehouse\GroceryWarehouse\obj\Debug\GroceryWarehouse.csproj.GenerateResource.cache

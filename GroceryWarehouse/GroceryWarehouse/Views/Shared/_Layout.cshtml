@@ -1,0 +1,251 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="Grocery Store Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+    <script type="application/x-javascript">
+        addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+               function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <script src="~/Scripts/LogicScript.js"></script>
+
+    <link href="~/Content/CSS/demobar_w3_4thDec2019.css" rel="stylesheet" />
+    <link href="~/Content/CSS/TemplateStyle.css" rel="stylesheet"  media="all"/>
+    <link href="~/Content/CSS/font-awesome.css" rel="stylesheet" media="all"/>
+    <script src="~/Scripts/jquery-1.11.1.min.js"></script>
+    <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,300,300italic,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+    <script>
+        window.onload = function () {
+            document.getElementsByTagName('input').className = 'w3-border w3-padding';
+        }
+    </script>
+    <script src="~/Scripts/move-top.js"></script>
+    <script src="~/Scripts/easing.js"></script>
+    <script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$(".scroll").click(function(event){
+			event.preventDefault();
+			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+		});
+	});
+    </script>
+
+
+</head>
+<body>
+    <meta name="robots" content="noindex">
+    <div id="w3lDemoBar" class="w3l-demo-bar">
+        <a href="https://w3layouts.com/?p=" ga-on="click" ga-event-category=" Template" ga-event-action="view" ga-event-label=" - view">
+            <span class="w3l-icon -back">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path opacity=".87" fill="none" d="M0 0h24v24H0V0z" /><path d="M16.62 2.99c-.49-.49-1.28-.49-1.77 0L6.54 11.3c-.39.39-.39 1.02 0 1.41l8.31 8.31c.49.49 1.28.49 1.77 0s.49-1.28 0-1.77L9.38 12l7.25-7.25c.48-.48.48-1.28-.01-1.76z" /></svg>
+            </span>
+            <span class="w3l-text">Back</span>
+        </a>
+        <a href="https://w3layouts.com/" class="w3l-logo">W3layouts</a>
+        <div class="w3l-template-options">
+            <a href="https://my.w3layouts.com/DownloadTemplate/"
+               class="w3l-download" ga-on="click" ga-event-category=" Template" ga-event-action="download-options" ga-event-label=" - Download options" title="Free download requires Backlink">
+                <span class="w3l-icon -download">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 12v7H5v-7H3v7c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2v-7h-2zm-6 .67l2.59-2.58L17 11.5l-5 5-5-5 1.41-1.41L11 12.67V3h2z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                </span>
+                <span class="w3l-text">Download</span>
+            </a>
+            <a href="https://my.w3layouts.com/DownloadTemplate//Buy"
+               class="w3l-buy" ga-on="click" ga-event-category=" Template" ga-event-action="Buy Now" ga-event-label=" - Buy" title="Remove Backlink from template">
+                <span class="w3l-icon -buy">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z" /><path d="M0 0h24v24H0z" fill="none" /></svg>
+                </span>
+                <span class="w3l-text">Buy Now</span>
+            </a>
+        </div>
+    </div>
+
+    <div class="agileits_header">
+        <div class="w3l_offers">
+            <a href="products.html">Today's special Offers !</a>
+        </div>
+        <div class="w3l_search">
+            <form action="#" method="post">
+                <input type="text" name="Product" value="Search a product..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search a product...';}" required="">
+                <input type="submit" value=" ">
+            </form>
+        </div>
+        <div class="product_list_header">
+            <form action="#" method="post" class="last">
+                <fieldset>
+                    <input type="hidden" name="cmd" value="_cart" />
+                    <input type="hidden" name="display" value="1" />
+                    <input type="submit" name="submit" value="View your cart" class="button" />
+                </fieldset>
+            </form>
+        </div>
+        <div class="w3l_header_right">
+            <ul>
+                <li class="dropdown profile_details_drop">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user" aria-hidden="true"></i><span class="caret"></span></a>
+                    <div class="mega-dropdown-menu">
+                        <div class="w3ls_vegetables">
+                            <ul class="dropdown-menu drp-mnu">
+                                <li><a href="login.html">Login</a></li>
+                                <li><a href="login.html">Sign Up</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="w3l_header_right1">
+            <h2><a href="mail.html">Contact Us</a></h2>
+        </div>
+        <div class="clearfix"> </div>
+    </div>
+
+    <div class="logo_products">
+        <div class="container">
+            <div class="w3ls_logo_products_left">
+                <h1><a href="index.html"><span>Grocery</span> Store</a></h1>
+            </div>
+            <div class="w3ls_logo_products_left1">
+                <ul class="special_items">
+                    <li><a href="events.html">Events</a><i>/</i></li>
+                    <li><a href="about.html">About Us</a><i>/</i></li>
+                    <li><a href="products.html">Best Deals</a><i>/</i></li>
+                    <li><a href="services.html">Services</a></li>
+                </ul>
+            </div>
+            <div class="w3ls_logo_products_left1">
+                <ul class="phone_email">
+                    <li><i class="fa fa-phone" aria-hidden="true"></i>(+0123) 234 567</li>
+                    <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:store@grocery.com">store@grocery.com</a></li>
+                </ul>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/monetization.js"></script>
+    <script>
+(function(){
+	if(typeof _bsa !== 'undefined' && _bsa) {
+  		// format, zoneKey, segment:value, options
+  		_bsa.init('flexbar', 'CKYI627U', 'placement:w3layoutscom');
+  	}
+})();
+    </script>
+    <script>
+(function(){
+if(typeof _bsa !== 'undefined' && _bsa) {
+	// format, zoneKey, segment:value, options
+	_bsa.init('fancybar', 'CKYDL2JN', 'placement:demo');
+}
+})();
+    </script>
+    <script>
+(function(){
+	if(typeof _bsa !== 'undefined' && _bsa) {
+  		// format, zoneKey, segment:value, options
+  		_bsa.init('stickybox', 'CKYI653J', 'placement:w3layoutscom');
+  	}
+})();
+    </script>
+    <!--<script>(function(v,d,o,ai){ai=d.createElement("script");ai.defer=true;ai.async=true;ai.src=v.location.protocol+o;d.head.appendChild(ai);})(window, document, "//a.vdo.ai/core/w3layouts_V2/vdo.ai.js?vdo=34");</script>-->
+    <div id="codefund"><!-- fallback content --></div>
+    <script src="~/Scripts/funder.js" async="async"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src='https://www.googletagmanager.com/gtag/js?id=UA-149859901-1'></script>
+    <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-149859901-1');
+    </script>
+    <script>
+     window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+     ga('create', 'UA-149859901-1', 'demo.w3layouts.com');
+     ga('require', 'eventTracker');
+     ga('require', 'outboundLinkTracker');
+     ga('require', 'urlChangeTracker');
+     ga('send', 'pageview');
+    </script>
+    <script src="~/Scripts/autotrack.js"></script>
+    <!-- //footer -->
+    <!-- Bootstrap Core JavaScript -->
+    @*<script src="js/bootstrap.min.js"></script>*@
+    <script>
+$(document).ready(function(){
+    $(".dropdown").hover(
+        function() {
+            $('.dropdown-menu', this).stop( true, true ).slideDown("fast");
+            $(this).toggleClass('open');
+        },
+        function() {
+            $('.dropdown-menu', this).stop( true, true ).slideUp("fast");
+            $(this).toggleClass('open');
+        }
+    );
+});
+    </script>
+    <!-- here stars scrolling icon -->
+    <script type="text/javascript">
+		$(document).ready(function() {
+			/*
+				var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear'
+				};
+			*/
+
+			$().UItoTop({ easingType: 'easeOutQuart' });
+
+			});
+    </script>
+    <!-- //here ends scrolling icon -->
+    <script src="~/Scripts/minicart.min.js"></script>
+    <script>
+	// Mini Cart
+	paypal.minicart.render({
+		action: '#'
+	});
+
+	if (~window.location.search.indexOf('reset=true')) {
+		paypal.minicart.reset();
+	}
+    </script>
+
+    <script>
+	$(document).ready(function() {
+		 var navoffeset=$(".agileits_header").offset().top;
+		 $(window).scroll(function(){
+			var scrollpos=$(window).scrollTop();
+			if(scrollpos >=navoffeset){
+				$(".agileits_header").addClass("fixed");
+			}else{
+				$(".agileits_header").removeClass("fixed");
+			}
+		 });
+
+	});
+    </script>
+
+</body>
+</html>
